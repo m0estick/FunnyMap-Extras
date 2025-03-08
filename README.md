@@ -1,2 +1,2 @@
-# FunnyMap-Extras
-Extended verion of regular funnymap, that get updates
+FunnyMap
+Dungeon map mod for Hypixel Skyblock. Open settings with /fmap. Big thanks to IllegalMap by UnclaimedBloom6.
